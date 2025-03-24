@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "setting",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "instagram": {
+      "type": "string"
+    },
+    "whatsappNumber": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "about": {
+      "type": "string"
+    },
+    "store_name": {
+      "type": "string"
+    }
+  }
+}
